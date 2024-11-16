@@ -32,4 +32,12 @@ You'll now have the `zeroes-scanner` folder in your home folder.
 sudo python3 zeroes.py
 ```
 
+<div align="center" width="50"> <img src="images/zeroes_1.jpg" alt="Welcome!" width="600"/> </div>
+<div align="center" width="50"> <img src="images/zeroes_2.jpg" alt="Welcome!" width="600"/> </div>
+<div align="center" width="50"> <img src="images/zeroes_3.jpg" alt="Welcome!" width="600"/> </div>
+<div align="center" width="50"> <img src="images/zeroes_4.jpg" alt="Welcome!" width="600"/> </div>
+<div align="center" width="50"> <img src="images/zeroes_5.jpg" alt="Welcome!" width="600"/> </div>
+<div align="center" width="50"> <img src="images/zeroes_6.jpg" alt="Welcome!" width="600"/> </div>
+
+
 Please Support ME with a Star ...

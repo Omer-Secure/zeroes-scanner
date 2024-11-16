@@ -46,7 +46,7 @@ def restart():
         print(copyright)
         print("\n\033[1;32mGoodbye, Friend\033[0;m\033[1;37m!\033[0;m")
         tool = exit(0)
-    os.system("python3 netscanner.py")    	
+    os.system("python3 zeroes.py")    	
 
 # (1) داله للتحقق من اتصال الانترنت
 def check_network():
@@ -212,7 +212,7 @@ elif option == "5":
     restart()
 
 elif option == "6":
-    os.system("python3 zeroes.py")
+    os.system("python3 xss-sqli.py")
 
 elif option == "0":
     print("\n\033[1;32mGoodbye, Friend\033[0;m\033[1;37m!\033[0;m")

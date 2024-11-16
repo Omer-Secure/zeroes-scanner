@@ -16,6 +16,10 @@ cd zeroes-scanner
 sudo chmod +x *
 ```
 ```bashj
+pip install requirements.txt
+
+OR
+
 sudo pip install requirements.txt
 ```
 

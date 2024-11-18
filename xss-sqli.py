@@ -1210,6 +1210,7 @@ def scan_for_vulnerabilities(url, payloads, headers=None, tokens=None, threads=1
     return vulnerable_urls
 
 vulnerability_checks = {
+    check_sqli: "SQL Injection \n \n",
     check_xss: "Cross-Site Scripting \n \n",
 }
 

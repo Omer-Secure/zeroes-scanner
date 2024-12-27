@@ -20,7 +20,7 @@ END = '\033[0m'
 os.system("clear")
 
 banner = pyfiglet.figlet_format("ZEROES-Scanner")
-copyright = ("BY: \033[1;37m Omer-Bawazir, Ali-Saad, Saeed, Bassam, Nasser, Abdullah \033[0m")
+copyright = ("BY: \033[1;37m Omer-Secure \033[0m")
 print(banner)
 print(copyright)
 

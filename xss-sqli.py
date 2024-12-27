@@ -274,9 +274,7 @@ def print_logo():
 ██                                                     ██
 █████████████████████████████████████████████████████████
 ██                                                     ██
-██ @Omer-Bawazir | @Ali-Bin-Jaah | @Bassam-Alsakoty    ██
-██                                                     ██
-██ @Saeed-Bamahfoz | @Naseer-AlJaeedy                  ██
+██  By:  @Omer-Secure                                  ██
 ██                                                     ██
 █████████████████████████████████████████████████████████
     """
